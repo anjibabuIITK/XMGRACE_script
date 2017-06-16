@@ -1,4 +1,7 @@
-# script to plot in xmgrace
+# script to plot in xmgrace by command line
+#
+# ANJI BABU KAPAKAYALA, IIT KANPUR, INDIA
+#
 # arrange (1,1,.1,.6,.6,ON,ON,ON) this is for multi graph ploting
 #FOCUS graph
  FOCUS G0
@@ -37,7 +40,7 @@ S4 legend "FILE5"
 # you can plot any number of files
 #=================================================
 #TITLE of the plot
-##title "Title of plot"
+title "Title of plot"
 #WORLD xmin, ymin, xmax, ymax (for setting axies range)
  WORLD 0.95, 0.0, 1.85, 40.0
 #yaxis ticklabel char size 0.800000  adjest the font size of yaxix label
